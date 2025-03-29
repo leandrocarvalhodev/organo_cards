@@ -1,3 +1,28 @@
+# 📌 Organo Cards
+
+🚀 Projeto em **React** para exercitar o uso de **componentes** e entender como eles funcionam.
+
+## 📖 Sobre o projeto
+
+O **Organo Cards** é uma aplicação onde os usuários podem criar **cards de desenvolvedores** através de um **formulário**.
+
+### 🔹 No formulário, o usuário pode adicionar:
+- ✔ **Nome**
+- ✔ **Cargo**
+- ✔ **Imagem**
+- ✔ **Time** (ex: **Programação, Front-End, DevOps, Data Science**, etc.)
+
+### 🔹 Além disso, é possível:
+- ✔ **Criar novos times** com cores personalizadas.
+- ✔ **Organizar os cards dentro de cada time**.
+
+## 🛠️ Tecnologias utilizadas
+- **React** ⚛  
+- **JavaScript (ES6+)**  
+- **CSS**  
+- **HTML5**  
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
